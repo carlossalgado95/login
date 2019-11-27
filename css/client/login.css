@@ -15,7 +15,7 @@ background-position: center;
 background-size: 100vh 100vw;
 height: 100vh;
 width: 100vw;
-display: flex;
+display: flex; 
 flex-direction: column;
 justify-content: center;
 
@@ -29,13 +29,34 @@ margin: 0 16px;
 padding: 16px;
 
 }
+.email{
+
+color: grey;
+background-color: white;
+
+}
+
+.password{
+
+color: grey;
+background-color: white;
+
+
+}
+
+.checkbox{
+  color: white;
+  background-color: white;
+
+
+}
 
 .formlogin{
 
 display: flex;
 flex-direction: column;
-
-color: white;
+background-image: white;
+color: grey;
 
 }
 
@@ -50,6 +71,11 @@ color: white;
   align-self: right;
   color: black;
   background-color: yellow;
+}
+
+.senha{
+
+  color:white;
 }
 
 .icon{

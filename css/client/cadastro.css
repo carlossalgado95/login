@@ -1,0 +1,142 @@
+
+
+.fundo1{
+  
+  background-attachment: center;
+  background-size: 300%;
+  background-repeat: no-repeat; 
+ 
+  }
+ 
+.img{
+  position: absolute;
+  left: 32%;
+  top: 2%;
+  width: 120px;
+}
+
+
+.background1{
+background-repeat: no-repeat;
+background-color: rgb(52, 63, 75);
+background-position: center;
+background-size: 10vh 100vw;
+height: 100vh;
+width: 100vw;
+display: flex;
+flex-direction: column;
+justify-content: center;
+
+
+}
+
+.card1{
+
+top: 20%;
+margin: 0 16px;
+padding: 16px;
+
+}
+.email1{
+
+color: grey;
+background-color: white;
+
+}
+
+
+
+.formlogin1{
+
+display: flex;
+flex-direction: column;
+color:black;
+
+}
+
+.formlogin1 > input{
+  margin-bottom: 24px;
+  align-self: left;
+
+  
+}
+
+.nome{
+
+  background-color: white;
+
+}
+
+.sobrenome{
+  background-color: white;
+
+}
+.Email{
+
+  background-color: white;
+
+}
+
+
+
+.formbuttom1{
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  
+}
+
+
+
+.icon1{
+  padding: 10px;
+  background: dodgerblue;
+  color: white;
+  min-width: 50px;
+  text-align: center;
+
+
+}
+
+.botoes-items {
+  text-align:left;
+  margin: left;
+  margin-bottom: 16px;
+  
+}
+
+.botoesiniciante {
+  display:inline;
+  text-align: left;
+  float: left;
+  padding: 4px 15px;
+  background-color: white;
+
+}
+
+.botoesexperiente {
+  display:inline;
+  text-align: right;
+  float: right;
+  padding: 4px 15px;
+  background-color: white;
+
+}
+
+.cadastro{
+
+  text-align:center;
+  margin: center;
+  display:inline;
+  text-align: center;
+  float: center;
+  padding: 4px 15px;
+  background-color: white;
+  margin-bottom: 16px;
+
+}

@@ -5,6 +5,10 @@ import './main.html';
 
 import './login'
 
+import './cadastro'
+
+import './acesso'
+
 Template.hello.onCreated(function helloOnCreated() {
   // counter starts at 0
   this.counter = new ReactiveVar(0);

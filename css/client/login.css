@@ -1,0 +1,63 @@
+.fundo{
+  background-image: url("img/fundo.jpg");
+  background-attachment: center;
+  background-size: 300%;
+  background-repeat: no-repeat;
+  background-color: #000;
+ 
+ 
+  }
+
+.background{
+background-repeat: no-repeat;
+
+background-position: center;
+background-size: 100vh 100vw;
+height: 100vh;
+width: 100vw;
+display: flex;
+flex-direction: column;
+justify-content: center;
+
+
+}
+
+.card{
+
+background: rgba(63, 71, 67,0.93);
+margin: 0 16px;
+padding: 16px;
+
+}
+
+.formlogin{
+
+display: flex;
+flex-direction: column;
+
+color: white;
+
+}
+
+.formlogin > input{
+  margin-bottom: 16px;
+  align-self: left;
+
+  
+}
+
+.formbuttom{
+  align-self: right;
+  color: black;
+  background-color: yellow;
+}
+
+.icon{
+  padding: 10px;
+  background: dodgerblue;
+  color: white;
+  min-width: 50px;
+  text-align: center;
+
+
+}

@@ -11,3 +11,5 @@ import './acesso'
 
 import './saldo'
 
+import './dashboard'
+

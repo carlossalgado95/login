@@ -14,6 +14,7 @@ color: white;
 .main {
     height: calc(100vh - 64px);
     overflow:hidden;
+
 }
 .content{
     overflow-y: auto;
@@ -23,6 +24,7 @@ color: white;
 .content__text {
     margin-top: 16px;
     font-size: 18px;
+    margin-top: 2px;
 }
 .content__value{
     font-size: 14px;
@@ -30,5 +32,9 @@ color: white;
     align-items: center;
     align-self: center;
 
+}
+.formulario{
+    width: 250px;
+    overflow-y: scroll;
 }
 

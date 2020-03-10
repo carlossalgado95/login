@@ -13,3 +13,4 @@ import './saldo'
 
 import './dashboard'
 
+import './formulario'
